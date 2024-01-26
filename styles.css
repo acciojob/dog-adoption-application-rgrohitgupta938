@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+body{
+	margin:20px;
+	padding:10px;
+}
+label{
+	font-weight:600;
+}
+input{
+	margin-bottom:10px;
+}
+button{
+	margin-top:10px;
+}
